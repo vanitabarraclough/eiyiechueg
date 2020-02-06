@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://xohnguphah.tomaspavelka.cz/sitemap.xml
